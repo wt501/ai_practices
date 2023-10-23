@@ -12,7 +12,7 @@ AI総合演習（鳥井）のサンプルプログラムを掲載しています
 [演習プログラム](./ai04.ipynb)
 
 # License
-See [LISENSE](./LICENSE).
+See [LICENSE](./LICENSE).
 
 # Copyright
 Copyright (C) 2023 Kohei Torii
